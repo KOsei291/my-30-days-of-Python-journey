@@ -60,3 +60,7 @@ print('In every programming language it starts with \"Hello, World!\"') # to wri
 # language = 'Python'
 # first_letter = language[0]
 # print(first_letter)
+
+# You can also slice strings when printing by using variable_name[n1:n2]
+# Reversing the string is done by [::-1]
+# Skipping a character can be done by [n0:nl:n] where n0 the first character, nl is the last character, and n is the number of characters it should skip
