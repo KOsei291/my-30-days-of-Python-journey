@@ -47,6 +47,7 @@ print('In every programming language it starts with \"Hello, World!\"') # to wri
 # {} takes the place of the old style format, and at the end, bring .format() with the variable
 # An example 'I am {} {}.'.format(first_name, last_name)
 # P.S. for floating points with fixed precision, use {:.(number of digits)f}
+print('I am {} {}.'.format(first_name, last_name))
 
 # Another interpolation is using print(f'') by just putting the variable into {} and place the entire print message into f''
 # An example is
